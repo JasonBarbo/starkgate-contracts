@@ -22,7 +22,7 @@
                 "required_version": ">=4.0.0a3,<5.0"
             },
             {
-                "installed_version": "0.13.0",
+                "installed_version": "0.13.0", #version check
                 "key": "asynctest",
                 "package_name": "asynctest",
                 "required_version": "==0.13.0"
